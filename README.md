@@ -1,3 +1,5 @@
+Data source: https://www.kaggle.com/datasets/ahmedshahriarsakib/usa-real-estate-dataset
+
 -Real Estate Price Prediction
 
 This project focuses on predicting real estate property prices based on key features such as the number of bedrooms, bathrooms, and total area (square footage). Using machine learning, the model helps estimate a property’s market value with data-driven accuracy — a valuable tool for investors, realtors, and buyers.
